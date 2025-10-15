@@ -269,7 +269,7 @@ Sugestões de melhorias:
 - Notebooks separados: 01_preprocessamento, 02_dbscan, 03_visualizacao.
 
 ## Licença
-Defina uma licença. Exemplo: MIT License. Crie um arquivo LICENSE no repositório.
+MIT License.
 
 Resumo da MIT:
 - Você pode usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender;
